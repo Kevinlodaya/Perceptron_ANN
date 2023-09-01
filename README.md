@@ -1,2 +1,2 @@
 # Perceptron_ANN
-understand the concept &amp; experiment using the perceptron algorithm
+Understand the concept &amp; experiment using the perceptron algorithm
